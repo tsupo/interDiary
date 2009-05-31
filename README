@@ -1,0 +1,12 @@
+﻿
+'interDiary' makes a diary consited each part of articles between 2 blogs, and tied by trackback.
+This is one of joke programs :-)
+
+
+
+
+xmlRPC libraries are necessary for building this application.
+
+  xmlRPC: 
+    http://github.com/tsupo/xmlRPC/tree
+
